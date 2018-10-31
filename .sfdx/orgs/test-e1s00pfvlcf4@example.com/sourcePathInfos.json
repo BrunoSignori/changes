@@ -32,28 +32,28 @@
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1541026630000,
-            "changeTime": 1541026630000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 170,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 156,
-            "modifiedTime": 1541026689000,
-            "changeTime": 1541026689000,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 175,
+            "modifiedTime": 1541027805000,
+            "changeTime": 1541027805000,
+            "contentHash": "bd837437d2b55c6181bb8cfa0a165699f130261f"
         }
     ],
     [
@@ -385,92 +385,352 @@
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18084,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "ccab3d59ff5aa5ac0a953e2298661c19de2993c5"
+            "contentHash": "ccab3d59ff5aa5ac0a953e2298661c19de2993c5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1541026937000,
             "changeTime": 1541026937000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1541027581000,
+            "changeTime": 1541027581000,
+            "contentHash": "a688946f76c0ea7d3c5bf7161746a79e76b79dbb"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1541027699000,
+            "changeTime": 1541027699000,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1541027676000,
+            "changeTime": 1541027676000,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1541027539000,
+            "changeTime": 1541027539000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 122,
+            "modifiedTime": 1541027466000,
+            "changeTime": 1541027466000,
+            "contentHash": "ec7c31bb2adfad823ca201c24ed89618a3d26301"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1541027494000,
+            "changeTime": 1541027494000,
+            "contentHash": "22602e1233fee615edad96067b8caea2a99688b0"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bruno/Desktop/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1541027352000,
+            "changeTime": 1541027352000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
